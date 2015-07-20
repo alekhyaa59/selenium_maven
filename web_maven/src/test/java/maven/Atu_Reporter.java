@@ -18,9 +18,9 @@ import atu.testng.selenium.reports.CaptureScreen.ScreenshotOf;
 public class Atu_Reporter 
 {
 	
-   {
-	System.setProperty("atu.reporter.config", "E:\\selenium_praticse\\webdriver\\atu.properties");
-   }
+   //{
+	//System.setProperty("atu.reporter.config", "E:\\selenium_praticse\\webdriver\\atu.properties");
+   //}
 		
   @DataProvider (name="p1")
   public String[][] login_data()
